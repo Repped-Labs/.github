@@ -1,9 +1,3 @@
-<!--
-  Repped Labs — README
-  Drop this in the root of your GitHub repo as README.md
-  Search for <!-- TODO --> markers to swap in real values
--->
-
 <div align="center">
 
 <img width="600" height="200" alt="Repped Labs" src="https://github.com/user-attachments/assets/5963e4ba-2fe7-436e-b46e-1927825c7ce4" />
