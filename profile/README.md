@@ -1,8 +1,5 @@
 <div align="center">
-
 <img width="360" alt="Repped Labs" src="https://github.com/user-attachments/assets/5963e4ba-2fe7-436e-b46e-1927825c7ce4" />
-
-<br><br>
 
 <h3><i>This is the lab. Welcome in.</i></h3>
 
